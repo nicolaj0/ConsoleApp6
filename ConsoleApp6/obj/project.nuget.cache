@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uc9NhQKP4jpMaUPZIDjrv1KLto6dcb6bC+c10l+55eLi+82Rq1lBaIgGbIID/4NLefgy0Y1tA7vWD6si6hMigg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\junic\\RiderProjects\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\junic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
